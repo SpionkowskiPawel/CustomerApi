@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Customer.Dalx\Customer.Dal.csproj" />
+    <ProjectReference Include="..\Customer.Dal\Customer.Dal.csproj" />
   </ItemGroup>
 
 </Project>

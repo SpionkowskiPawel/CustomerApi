@@ -13,13 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.Bl", "Customer.BL\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{893E9B65-B149-4BFA-A239-51CD8D880620}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.Dal.Dto", "Customer.DAL\Customer.Dal.Dto.csproj", "{14F50FF6-940A-40EB-A6DF-F7D5475752E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.Dal.Dto", "Customer.Dal.Dto\Customer.Dal.Dto.csproj", "{14F50FF6-940A-40EB-A6DF-F7D5475752E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{B4A74B9D-627A-4B89-ABD8-461A134822CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.ApplicationSetup", "Customer.ApplicationSetup\Customer.ApplicationSetup.csproj", "{700E69BA-7DBF-47B4-A58C-53A1CDCC0948}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.Dal", "Customer.Dalx\Customer.Dal.csproj", "{0CBA660E-FF65-422E-81E9-D51483F7E94A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Customer.Dal", "Customer.Dal\Customer.Dal.csproj", "{0CBA660E-FF65-422E-81E9-D51483F7E94A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{8A116CB8-8E6C-4FCD-9701-428BAF966525}"
 EndProject
